@@ -1,0 +1,57 @@
+# מבקשי פניך — Generative Engine Optimization Map
+
+> A מוסדות תורניים וחסד business.
+
+---
+
+## Pages
+
+### דף הבית
+https://-6c153ac0.zappy5.app
+הצטרפו למבקשי פניך ותהיו שותפים בפעילות תורנית וחסד אמיתית. תמיכה רוחנית, שיעורי תורה מוקלטים ועוד.
+
+### שירותים
+https://-6c153ac0.zappy5.app/services
+גלו את מגוון השירותים התורניים של מבקשי פניך: שיעורי תורה מוקלטים, בית הוראה, תמיכה רוחנית למשפחות דתיות ועוד.
+
+### אודות
+https://-6c153ac0.zappy5.app/about
+למדו על מבקשי פניך - ארגון תורני וחסד המוקדש להפצת תורה ולחיזוק הקהילה הדתית בישראל דרך שותפות אמיתית.
+
+### צור קשר
+https://-6c153ac0.zappy5.app/contact
+צרו קשר עם מבקשי פניך והצטרפו לשותפות אמיתית בפעילות תורנית וחסד. אנחנו כאן לענות על כל שאלה ולסייע לכם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-6c153ac0.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-6c153ac0.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-6c153ac0.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About מבקשי פניך
+מבקשי פניך is a business in the מוסדות תורניים וחסד industry.
+
+## Target Audience
+קהל דתי ומסורתי בישראל
+
+## Industry
+מוסדות תורניים וחסד
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-6c153ac0.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-6c153ac0.zappy5.app/robots.txt
